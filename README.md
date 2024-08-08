@@ -14,7 +14,7 @@ Welcome to Prompt Enhancer, a streamlit-powered application designed to improve 
 ### 2. Local setup : 
 1. **Clone the Prompt Enhancer repository**:
    ```
-   git clone https://github.com/lim-hyo-jeong/Prompt-Enhancer.git
+   git clone https://github.com/tsis-mobile-technology/Prompt-Enhancer.git
    ```
 2. **Install the required packages**:
    ```
@@ -26,9 +26,9 @@ Welcome to Prompt Enhancer, a streamlit-powered application designed to improve 
    ```
    streamlit run main.py
    ```
-3.1. **Get Gemini API key**:
+5. **Get Gemini API key**:
    You can get your Gemini API key [here](https://aistudio.google.com/app/apikey)
-4.1. **Run Prompt enhancer**:
+6. **Run Prompt enhancer**:
    ```
    streamlit run mainForGemini.py
    ```
