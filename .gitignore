@@ -130,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+vertexai.py
+README_CHANGE_GEMINI.md
