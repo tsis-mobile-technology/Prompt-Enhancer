@@ -178,5 +178,5 @@ with col2:
 
 st.text("")
 st.text("")
-st.markdown("<p style='text-align: center;'>Github: @tsis-mobile-technology, (feat:Email: gainworld@gmail.com)</p>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>Github: @lim-hyo-jeong</p>(feat:Github: @lim-hyo-jeong/Prompt-Enhancer)", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Github: @tsis-mobile-technology, (feat: gainworld@gmail.com)</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Github: @lim-hyo-jeong</p>(feat: @tsis-mobile-technology/Prompt-Enhancer)", unsafe_allow_html=True)

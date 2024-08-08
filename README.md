@@ -26,6 +26,12 @@ Welcome to Prompt Enhancer, a streamlit-powered application designed to improve 
    ```
    streamlit run main.py
    ```
+3.1. **Get Gemini API key**:
+   You can get your Gemini API key [here](https://aistudio.google.com/app/apikey)
+4.1. **Run Prompt enhancer**:
+   ```
+   streamlit run mainForGemini.py
+   ```
 
 
 ## How to Use 
@@ -54,3 +60,7 @@ Additionally, the tool offers users the option to incorporate emotional prompts 
 - **Email**: lim.gadi@gmail.com
 - **GitHub**: [@lim-hyo-jeong](https://github.com/lim-hyo-jeong)
 - **Linkedin**: https://www.linkedin.com/in/lim-hyo-jeong/
+
+## Modify
+- **Email**: gainworld@gmail.com
+- **GitHub**: [@tsis-mobile-technology](https://github.com/tsis-mobile-technology)
